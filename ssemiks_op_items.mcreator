@@ -1,0 +1,41 @@
+{
+  "mod_elements": [
+    {
+      "name": "OPAxe",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "op_axe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.ssemiks_op_items.op_axe": "OP Axe"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ssemiks_op_items",
+    "modName": "Ssemik\u0027s OP Items",
+    "version": "1.0.0",
+    "author": "ssemg, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "ssemik.ssemiks.op.items",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}
